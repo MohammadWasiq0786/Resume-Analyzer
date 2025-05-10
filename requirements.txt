@@ -1,0 +1,6 @@
+streamlit
+euriai
+pymupdf
+python-dotenv
+apify-client
+fastmcp
